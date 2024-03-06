@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct CKShareTesterApp: App {
+    // nothing
     var body: some Scene {
         WindowGroup {
             ContentView()
